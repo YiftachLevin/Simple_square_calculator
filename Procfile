@@ -1,1 +1,1 @@
-web: gunicorn cv_web_app:app
+web: gunicorn flask_assignment:app
